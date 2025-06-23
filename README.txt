@@ -1,13 +1,4 @@
-Group 8
-Toni Nam - S11213524 (100%)
-Gwen Mar - S11211732  (100%)
-Adrian Obadiah - S11198024  (100%)
-Adi Filomena Rotuisolia - S11222349  (100%)
-
-# Java Distributed Chat System Using RMI
-
-## Overview
-
+# Java-Distributed-Chat-System-Using-RMI-CS218A1
 This is a Java Swing-based chat application that allows students to communicate with agents and admins. The application supports role-based messaging, where students can only send private messages to agents and admins, and cannot message other students. Agents and admins can broadcast messages or send private messages to selected users.
 
 ## Features
